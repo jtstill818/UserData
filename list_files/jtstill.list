@@ -197,14 +197,20 @@ PA PA100 SchRd I-78
 PA US22 I-78(49) PA/NJ
 #
 #
-# Pittsburgh August 2022 (not including Turnpike already covered)
+# Pittsburgh Trips
 PA I-76 57 189
-PA I-376 73 85
+PA I-376 57 85
+PA I-376 45 50
 PA PA380 HerAve CraSt_S
 PA PA28 1A 5
-PA I-279 1B 2A
+PA I-279 1B 4
 PA PA8 PA28 SaxBlvd
 PA PA910 MouViewRd SaxBlvd
+PA I-376BLMoo I-376_W I-376_E
+PA US19TrkPit US19_S I-376(69B)_S
+PA US19TrkPit I-376(69B)_N I-376(70A)
+PA US19TrkPit I-279(4) BabBlvd
+PA I-579 I-279 PA885
 #
 #
 # Bucknell to Woodlawn (Oct 2022)
